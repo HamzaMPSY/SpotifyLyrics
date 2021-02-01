@@ -1,0 +1,7 @@
+qt_material
+lyricsgenius
+numpy
+opencv_contrib_python
+requests
+PyQt5
+SwSpotify
